@@ -41,4 +41,4 @@ for i in range(0,10):
         st.write(data['feed'][i]['url'])
         st.write("***")
     except KeyError:
-        st.write("cant be disclosed")
+        st.write("alpha vantage")
