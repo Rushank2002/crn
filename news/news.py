@@ -42,4 +42,4 @@ for i in range(0,10):
         st.write("***")
     except KeyError:
         st.write("alpha vantage")
-    st.write(***)
+    st.write('***')
